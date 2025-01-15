@@ -1,0 +1,6 @@
+@geometric_HostAddress = http://localhost:5079
+
+GET {{geometric_HostAddress}}/weatherforecast/
+Accept: application/json
+
+###
